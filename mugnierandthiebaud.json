@@ -10,65 +10,15 @@
   "order": [
     "sensation",
     "partirons",
-    "ciaccona",
-    "gaspard",
-    "botanist",
-    "romantik",
-    "wickedness",
-    "furieux",
     "dancing",
     "matin",
-    "larme",
-    "jingle",
-    "tour",
-    "bateau",
     "brouillard",
-    "matsubaba",
-    "poux",
-    "bwv1006"
+    "matsubaba"
   ],
   "songs": {
-    "bateau": {
-      "date": "2018-06-11",
-      "text": "Le Bateau ivre",
-      "duration": "6:33",
-      "bpm": "70",
-      "score": true,
-      "watch": [
-        {
-          "url": "https://youtu.be/a3Ek2EYkGsw",
-          "id": "a3Ek2EYkGsw",
-          "title": "Thiebaud @ Hockenheim - lundi 11 juin 2018, 8:20 du matin"
-        }
-      ],
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/le-bateau-ivre",
-          "id": "203852214",
-          "title": "Thiebaud @ Seloncourt - 2015"
-        },
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/bateau-vale-a-pena",
-          "id": "1081257037",
-          "title": "Thiebaud @ San Lazzaro di Savena - 2021"
-        }
-      ],
-      "markdown": "https://www.poetica.fr/poeme-1906/arthur-rimbaud-le-bateau-ivre/"
-    },
-    "ciaccona": {
-      "text": "Ain't No Ciaccona",
-      "duration": "0:43",
-      "watch": [
-        {
-          "url": "https://youtu.be/gwPqswsfbUY",
-          "id": "gwPqswsfbUY",
-          "title": "Ain't No Ciaccona"
-        }
-      ]
-    },
     "dancing": {
       "date": "2020-03-25",
-      "text": "Socially Distant Dancing",
+      "text": "Socially Distant/Close Dancing",
       "duration": "3:49",
       "bpm": "64",
       "watch": [
@@ -91,20 +41,6 @@
         }
       ]
     },
-    "larme": {
-      "date": "2016-06-01",
-      "text": "Larme",
-      "duration": "3:47",
-      "bpm": "55",
-      "watch": [
-        {
-          "url": "https://youtu.be/Zk_YubAnJmM",
-          "id": "Zk_YubAnJmM",
-          "title": "With Flavio Piscopo (percussioni) - 2016"
-        }
-      ],
-      "markdown": "https://www.poetica.fr/poeme-899/arthur-rimbaud-larme/"
-    },
     "matin": {
       "date": "2020-04-28",
       "text": "At Four O'Clock on a Summer Morning",
@@ -125,27 +61,6 @@
         }
       ],
       "markdown": "https://www.poetica.fr/poeme-646/arthur-rimbaud-bonne-pensee-du-matin/"
-    },
-    "gaspard": {
-      "date": "2021",
-      "text": "O Vous Tous !",
-      "duration": "3:45",
-      "bpm": "118",
-      "score": true,
-      "watch": [
-        {
-          "url": "https://youtu.be/9kKtb-2lIl4",
-          "id": "9kKtb-2lIl4",
-          "title": "Je suis venu, calme orphelin (…)"
-        }
-      ],
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/o-vous-tous-mastered",
-          "id": "1032425836",
-          "title": "« Gaspard Hauser chante »"
-        }
-      ]
     },
     "matsubaba": {
       "date": "1984",
@@ -181,20 +96,6 @@
       ],
       "markdown": true
     },
-    "poux": {
-      "date": "2015",
-      "text": "Les chercheuses de poux",
-      "duration": "2:24",
-      "bpm": "72",
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/les-chercheuses-de-poux/s-kZTIT",
-          "id": "262697864%3Fsecret_token%3Ds-kZTIT",
-          "title": "très brut de fonderie, il faut encore le travailler - 2016"
-        }
-      ],
-      "markdown": "https://www.poetica.fr/poeme-138/arthur-rimbaud-les-chercheuses-de-poux/"
-    },
     "sensation": {
       "date": "2021-01-22",
       "text": "Sensation",
@@ -216,85 +117,6 @@
       ],
       "markdown": "https://www.poetica.fr/poeme-533/arthur-rimbaud-sensation/",
       "instagram": true
-    },
-    "orange2": {
-      "text": "This page intentionally left orange.",
-      "extension": ".svg",
-      "duration": "&infin;"
-    },
-    "supplique": {
-      "date": "2020-04-01",
-      "text": "Supplique Pour Être Enterré À La Plage De Sète (GB)",
-      "duration": "8:00 61pbm",
-      "bpm": "61",
-      "listen": [
-        {
-          "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/811603621",
-          "id": "811603621",
-          "title": ""
-        }
-      ],
-      "markdown": "http://www.analysebrassens.com/?page=texte&id=94&%23"
-    },
-    "furieux": {
-      "date": "2021-03-17",
-      "text": "Music for the Furious",
-      "duration": "4:54",
-      "bpm": "50",
-      "watch": [
-        {
-          "url": "https://youtu.be/KV3JTbI3PeM",
-          "id": "KV3JTbI3PeM"
-        }
-      ],
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/musique-pour-les-furieux/s-LAS79fWkwB3",
-          "id": "1002445492%3Fsecret_token%3Ds-LAS79fWkwB3",
-          "title": ""
-        }
-      ],
-      "markdown": "http://www.analysebrassens.com/?page=texte&id=94&%23"
-    },
-    "botanist": {
-      "date": "2021-02-28",
-      "text": "Après 'Les filles du botaniste'",
-      "duration": "4:55",
-      "bpm": "87",
-      "watch": [
-        {
-          "url": "https://youtu.be/53zvSln5rvY",
-          "id": "53zvSln5rvY"
-        }
-      ],
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/apres-les-filles-du-botaniste-master-2",
-          "id": "1125351202"
-        }
-      ]
-    },
-    "tour": {
-      "date": "2015",
-      "text": "Chanson de la plus haute tour",
-      "duration": "5:09",
-      "bpm": "140",
-      "score": "tour",
-      "watch": [
-        {
-          "url": "https://youtu.be/7lKeQ91LtFk",
-          "id": "7lKeQ91LtFk",
-          "title": "2021"
-        }
-      ],
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/chanson-de-la-plus-haute-tour",
-          "id": "969542389",
-          "title": "2021"
-        }
-      ],
-      "markdown": "http://courses.logos.it/plscourses/linguistic_resources.laboratorio5?lang=en"
     },
     "brouillard": {
       "date": "1984",
@@ -321,116 +143,6 @@
         }
       ],
       "markdown": "https://youtu.be/OZuS8QQsQK8"
-    },
-    "wickedness": {
-      "date": "2021-03-20",
-      "text": "Wickedness",
-      "duration": "4:19",
-      "bpm": "98",
-      "watch": [
-        {
-          "url": "https://youtu.be/miJTYad2DPw",
-          "id": "miJTYad2DPw",
-          "title": "Bibi Andersson in a scene from Persona, by Ingmar Bergman, 1966."
-        }
-      ],
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/wickedness",
-          "id": "1011694336",
-          "title": "Méchanceté"
-        }
-      ],
-      "bandlab": [
-        {
-          "url": "https://www.bandlab.com/aequologica/wickedness-12e2cfe1?revId=5851c3a0-4989-eb11-85aa-0050f28a50ba",
-          "id": "5851c3a0-4989-eb11-85aa-0050f28a50ba",
-          "title": "Méchanceté"
-        }
-      ]
-    },
-    "jingle": {
-      "date": "2021-03-24",
-      "text": "Jingle Ducks",
-      "duration": "0:42",
-      "bpm": "80",
-      "watch": [
-        {
-          "url": "https://youtu.be/Zz24nVDp-A0",
-          "id": "Zz24nVDp-A0",
-          "title": ""
-        }
-      ],
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/jingle",
-          "id": "1015327303",
-          "title": "Jingle Ducks"
-        }
-      ],
-      "bandlab": [
-        {
-          "url": "https://www.bandlab.com/aequologica/jingle-ducks-ba98f197?revId=0948539b-8c8c-eb11-85aa-0050f28a50ba",
-          "id": "0948539b-8c8c-eb11-85aa-0050f28a50ba",
-          "title": "Méchanceté"
-        }
-      ]
-    },
-    "romantik": {
-      "date": "2021-03-27",
-      "text": "Romantik Funk",
-      "duration": "2:46",
-      "bpm": "72",
-      "watch": [
-        {
-          "url": "https://youtu.be/PpFmCNtK8zU",
-          "id": "PpFmCNtK8zU",
-          "title": ""
-        }
-      ],
-      "listen": [
-        {
-          "url": "https://soundcloud.com/christophe-thiebaud/romantik-funk",
-          "id": "1017932584",
-          "title": ""
-        }
-      ],
-      "bandlab": [
-        {
-          "url": "https://www.bandlab.com/aequologica/romantik-funk-8a015bf2?revId=a7f4664e-d48f-eb11-85aa-0050f28a50ba",
-          "id": "a7f4664e-d48f-eb11-85aa-0050f28a50ba",
-          "title": ""
-        }
-      ]
-    },
-    "bwv1006": {
-      "date": "2019-11-01",
-      "text": "Preludio from Partita No. 3 in E major for solo violin, BWV 1006, Johann Sebastian Bach, 1720.",
-      "duration": "4:23",
-      "bpm": "100",
-      "watch": [
-        {
-          "url": "https://youtu.be/OHp12oUx81A",
-          "id": "OHp12oUx81A",
-          "title": "BWV 1006 (w/o 'a') with some borrowings from BWV 29 - 2020"
-        }
-      ]
     }
-  },
-  "some_other_bach": {
-    "text": "JS Bach",
-    "duration": "",
-    "watch": [
-      {
-        "url": "https://youtu.be/p9Cc4amUnHw",
-        "id": "p9Cc4amUnHw",
-        "title": "Largo from sonata #3 in C major BWV 1005 for solo violin - 2020"
-      },
-      {
-        "url": "https://youtu.be/UWXZn5jskEM",
-        "id": "UWXZn5jskEM",
-        "title": "Goldberg Variations BWV988 - Variatio 18. Canone alla Sexta."
-      }
-    ]
   }
 }
