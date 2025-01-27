@@ -7,7 +7,7 @@
   "background": "/svgs/vinyl.svg?opas=.3;.75;.3;0",
   "background_animated": "/svgs/vinyl_rotating.svg?opas=.3;.75;.3;0",
 
-  "order": [
+  "orderedKeys": [
     "sensation",
     "partirons",
     "dancing",
@@ -21,20 +21,21 @@
       "text": "Socially Distant/Close Dancing",
       "duration": "3:49",
       "bpm": "64",
-      "watch": [
+      "media": [
         {
+          "type": "video",
           "url": "https://youtu.be/K6rk5tG71rI",
           "id": "K6rk5tG71rI",
           "title": "Mother by Bong Joon-ho (2009) + nième avatar de Matsubaba - 2020"
         },
         {
+          "type": "video",
           "url": "https://youtu.be/bkUuBwnKb6I",
           "id": "bkUuBwnKb6I",
           "title": "J'ai impitoyablement coupé tous les plan où Emmanuelle Seigner n'apparaît pas de cette scène légendaire de Frantic de Roman Polanski - 1988"
-        }
-      ],
-      "listen": [
+        },
         {
+          "type": "sound",
           "url": "https://soundcloud.com/christophe-thiebaud/matsubaba",
           "id": "1099388935",
           "title": "nième avatar de Matsubaba - 2021"
@@ -46,15 +47,15 @@
       "text": "At Four O'Clock on a Summer Morning",
       "duration": "3:17",
       "bpm": "60",
-      "watch": [
+      "media": [
         {
+          "type": "video",
           "url": "https://youtu.be/KHRBZ7buOFk",
           "id": "KHRBZ7buOFk",
           "title": "Pendant le premier confinement, sur notre balcon à San Lazzaro di Savena - mai 2020"
-        }
-      ],
-      "listen": [
+        },
         {
+          "type": "sound",
           "url": "https://soundcloud.com/christophe-thiebaud/bonne-pensee-du-matin-arthur",
           "id": "811632862",
           "title": "nième avatar de 'Pray the Lord'"
@@ -67,8 +68,9 @@
       "text": "Matsubaba Cantata",
       "duration": "6:08",
       "bpm": "64",
-      "listen": [
+      "media": [
         {
+          "type": "video",
           "url": "https://soundcloud.com/christophe-thiebaud/matsubaba_cantata",
           "id": "1231931005",
           "title": "Le 'vrai' Matsubaba, dans sa version de 2021"
@@ -80,8 +82,9 @@
       "text": "Nous Partirons",
       "duration": "2:00",
       "bpm": "88",
-      "watch": [
+      "media": [
         {
+          "type": "video",
           "url": "https://youtu.be/8VOp8qk9-a4",
           "id": "8VOp8qk9-a4",
           "title": "Tel Reverdy à Solesme (…)"
@@ -94,8 +97,9 @@
       "text": "Sensation",
       "duration": "5:21",
       "bpm": "107",
-      "watch": [
+      "media": [
         {
+          "type": "video",
           "url": "https://youtu.be/l_bjho9aLRE",
           "id": "l_bjho9aLRE",
           "title": "Sensation"
@@ -109,20 +113,21 @@
       "text": "Psycho Brouillard",
       "duration": "3:54",
       "bpm": "75",
-      "watch": [
+      "media": [
         {
+          "type": "video",
           "url": "https://youtu.be/ehCW0AkOp2Q",
           "id": "ehCW0AkOp2Q",
           "title": "Alfred Hitchcock, 1960"
         },
         {
+          "type": "video",
           "url": "https://youtu.be/wDe2REZxvMo",
           "id": "wDe2REZxvMo",
           "title": "Gus Van Sant, 1998"
-        }
-      ],
-      "listen": [
+        },
         {
+          "type": "sound",
           "url": "https://soundcloud.com/christophe-thiebaud/wam-brouillard",
           "id": "75183023",
           "title": "Les Fils à Papa au Val d'Orge - 1984"

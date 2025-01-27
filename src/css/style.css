@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IndieFlower';
+  src: url('/fonts/Indie_Flower/IndieFlower-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --bs-font-monospace: 'Inconsolata', 'Courier New', monospace;
+  --bs-body-font-family: var(--bs-font-monospace);
+  --ct-title-font-family: 'IndieFlower'; 
+}
+
+.card-text {
+  font-family: var(--ct-title-font-family);
+}
+
